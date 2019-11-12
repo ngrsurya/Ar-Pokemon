@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 409593ec76576274ebd0082cdf857f2d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Amaura
+    100002: //RootNode
+    100004: EndHead
+    100006: EndHips
+    100008: EndLFeelerA2
+    100010: EndLFeelerB
+    100012: EndLFinger
+    100014: EndLFoot
+    100016: EndLHand
+    100018: EndLToe
+    100020: EndRFeelerA2
+    100022: EndRFeelerB
+    100024: EndRFinger
+    100026: EndRFoot
+    100028: EndRHand
+    100030: EndRToe
+    100032: EndTail2
+    100034: EnvironmentAmbientLight
+    100036: Head
+    100038: Hips
+    100040: LArm
+    100042: LFeelerA1
+    100044: LFeelerA2
+    100046: LFeelerB
+    100048: LFinger
+    100050: LFoot
+    100052: LForeArm
+    100054: LHand
+    100056: LLeg
+    100058: LShoulder
+    100060: LThigh
+    100062: LToe
+    100064: Neck1
+    100066: Neck2
+    100068: Neck3
+    100070: Neck4
+    100072: Origin
+    100074: pm0739_00
+    100076: pm0739_00_BodySkin
+    100078: pm0739_00_IrisSkin
+    100080: RArm
+    100082: RFeelerA1
+    100084: RFeelerA2
+    100086: RFeelerB
+    100088: RFinger
+    100090: RFoot
+    100092: RForeArm
+    100094: RHand
+    100096: RLeg
+    100098: RShoulder
+    100100: RThigh
+    100102: RToe
+    100104: Spine1
+    100106: Tail1
+    100108: Tail2
+    100110: Waist
+    400000: Amaura
+    400002: //RootNode
+    400004: EndHead
+    400006: EndHips
+    400008: EndLFeelerA2
+    400010: EndLFeelerB
+    400012: EndLFinger
+    400014: EndLFoot
+    400016: EndLHand
+    400018: EndLToe
+    400020: EndRFeelerA2
+    400022: EndRFeelerB
+    400024: EndRFinger
+    400026: EndRFoot
+    400028: EndRHand
+    400030: EndRToe
+    400032: EndTail2
+    400034: EnvironmentAmbientLight
+    400036: Head
+    400038: Hips
+    400040: LArm
+    400042: LFeelerA1
+    400044: LFeelerA2
+    400046: LFeelerB
+    400048: LFinger
+    400050: LFoot
+    400052: LForeArm
+    400054: LHand
+    400056: LLeg
+    400058: LShoulder
+    400060: LThigh
+    400062: LToe
+    400064: Neck1
+    400066: Neck2
+    400068: Neck3
+    400070: Neck4
+    400072: Origin
+    400074: pm0739_00
+    400076: pm0739_00_BodySkin
+    400078: pm0739_00_IrisSkin
+    400080: RArm
+    400082: RFeelerA1
+    400084: RFeelerA2
+    400086: RFeelerB
+    400088: RFinger
+    400090: RFoot
+    400092: RForeArm
+    400094: RHand
+    400096: RLeg
+    400098: RShoulder
+    400100: RThigh
+    400102: RToe
+    400104: Spine1
+    400106: Tail1
+    400108: Tail2
+    400110: Waist
+    2100000: Material__593
+    2100002: Material__598
+    2100004: Material__594
+    2100006: Material__595
+    2100008: Material__596
+    2100010: Material__597
+    4300000: Amaura
+    9500000: //RootNode
+    13700000: Amaura
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

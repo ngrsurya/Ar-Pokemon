@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 24318f1bdd2521a43b07ee44a3e7be90
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: EndHead
+    100002: EndHips
+    100004: EndJaw
+    100006: EndLEar
+    100008: EndLFoot
+    100010: EndLHand
+    100012: EndLowerBeak
+    100014: EndLToe
+    100016: EndNose
+    100018: EndREar
+    100020: EndRFoot
+    100022: EndRHand
+    100024: EndRToe
+    100026: EndTail3
+    100028: EndUpperBeak
+    100030: EnvironmentAmbientLight
+    100032: GirafarigF
+    100034: //RootNode
+    100036: GirafarigF_TeethA
+    100038: GirafarigF_TeethB
+    100040: Head
+    100042: Hips
+    100044: Jaw
+    100046: LArm
+    100048: LEar
+    100050: LFoot
+    100052: LForeArm
+    100054: LHand
+    100056: LLeg
+    100058: LowerBeak
+    100060: LShoulder
+    100062: LThigh
+    100064: LToe
+    100066: Neck1
+    100068: Neck2
+    100070: Nose
+    100072: Origin
+    100074: pm0203_00_kirinriki
+    100076: pm0203_01_BodySkin
+    100078: pm0203_01_ToothASkin
+    100080: pm0203_01_ToothBSkin
+    100082: RArm
+    100084: REar
+    100086: RFoot
+    100088: RForeArm
+    100090: RHand
+    100092: RLeg
+    100094: RShoulder
+    100096: RThigh
+    100098: RToe
+    100100: Spine1
+    100102: Spine2
+    100104: Tail1
+    100106: Tail2
+    100108: Tail3
+    100110: UpperBeak
+    100112: VriTex01
+    100114: Waist
+    400000: EndHead
+    400002: EndHips
+    400004: EndJaw
+    400006: EndLEar
+    400008: EndLFoot
+    400010: EndLHand
+    400012: EndLowerBeak
+    400014: EndLToe
+    400016: EndNose
+    400018: EndREar
+    400020: EndRFoot
+    400022: EndRHand
+    400024: EndRToe
+    400026: EndTail3
+    400028: EndUpperBeak
+    400030: EnvironmentAmbientLight
+    400032: GirafarigF
+    400034: //RootNode
+    400036: GirafarigF_TeethA
+    400038: GirafarigF_TeethB
+    400040: Head
+    400042: Hips
+    400044: Jaw
+    400046: LArm
+    400048: LEar
+    400050: LFoot
+    400052: LForeArm
+    400054: LHand
+    400056: LLeg
+    400058: LowerBeak
+    400060: LShoulder
+    400062: LThigh
+    400064: LToe
+    400066: Neck1
+    400068: Neck2
+    400070: Nose
+    400072: Origin
+    400074: pm0203_00_kirinriki
+    400076: pm0203_01_BodySkin
+    400078: pm0203_01_ToothASkin
+    400080: pm0203_01_ToothBSkin
+    400082: RArm
+    400084: REar
+    400086: RFoot
+    400088: RForeArm
+    400090: RHand
+    400092: RLeg
+    400094: RShoulder
+    400096: RThigh
+    400098: RToe
+    400100: Spine1
+    400102: Spine2
+    400104: Tail1
+    400106: Tail2
+    400108: Tail3
+    400110: UpperBeak
+    400112: VriTex01
+    400114: Waist
+    2100000: Material__47
+    2100002: Material__48
+    4300000: GirafarigF
+    4300002: GirafarigF_TeethA
+    4300004: GirafarigF_TeethB
+    9500000: //RootNode
+    13700000: GirafarigF
+    13700002: GirafarigF_TeethA
+    13700004: GirafarigF_TeethB
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

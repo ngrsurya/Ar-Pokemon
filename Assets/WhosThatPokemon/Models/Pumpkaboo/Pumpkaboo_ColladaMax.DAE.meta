@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: fb9deb823183d434dbea13e3bf9190c8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: EndFeeler2
+    100002: EndFeelerA
+    100004: EndFeelerB
+    100006: EndHead
+    100008: EndLEar
+    100010: EndLForeArm
+    100012: EndLThigh
+    100014: EndREar
+    100016: EndRForeArm
+    100018: EndRThigh
+    100020: EndWaist
+    100022: Feeler1
+    100024: Feeler2
+    100026: FeelerA
+    100028: FeelerB
+    100030: Head
+    100032: LArm
+    100034: LEar
+    100036: LForeArm
+    100038: LThigh
+    100040: Origin
+    100042: pm0735_11
+    100044: pm0735_11_BodyASkin
+    100046: pm0735_11_BodyBSkin
+    100048: Pumpkaboo
+    100050: //RootNode
+    100052: RArm
+    100054: REar
+    100056: RForeArm
+    100058: RThigh
+    100060: Waist
+    400000: EndFeeler2
+    400002: EndFeelerA
+    400004: EndFeelerB
+    400006: EndHead
+    400008: EndLEar
+    400010: EndLForeArm
+    400012: EndLThigh
+    400014: EndREar
+    400016: EndRForeArm
+    400018: EndRThigh
+    400020: EndWaist
+    400022: Feeler1
+    400024: Feeler2
+    400026: FeelerA
+    400028: FeelerB
+    400030: Head
+    400032: LArm
+    400034: LEar
+    400036: LForeArm
+    400038: LThigh
+    400040: Origin
+    400042: pm0735_11
+    400044: pm0735_11_BodyASkin
+    400046: pm0735_11_BodyBSkin
+    400048: Pumpkaboo
+    400050: //RootNode
+    400052: RArm
+    400054: REar
+    400056: RForeArm
+    400058: RThigh
+    400060: Waist
+    2100000: Material__38
+    2100002: Material__39
+    2100004: Material__40
+    2100006: Material__41
+    4300000: Pumpkaboo
+    9500000: //RootNode
+    13700000: Pumpkaboo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BRSS_marker_Girafarig" size="5.000000 5.000000" />
+    <ImageTarget name="BRSS_marker_Pumpkaboo" size="5.000000 5.000000" />
+    <ImageTarget name="BRSS_marker_Teddiursa" size="5.000000 5.000000" />
+    <ImageTarget name="BRSS_marker_Plusle" size="5.000000 5.000000" />
+    <ImageTarget name="BRSS_marker_Minncino" size="5.000000 5.000000" />
+    <ImageTarget name="BRSS_marker_Anaura" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
